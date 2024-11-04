@@ -298,7 +298,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Astronaut_Run_0: 4335816682519502456
+      Astronaut_Run_1: 5368616809750050812
+      Astronaut_Run_2: -4539938040261777843
+      Astronaut_Run_3: 3591443082018853874
+      Astronaut_Run_4: 1830395331618411378
+      Astronaut_Run_5: 155387575678404103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

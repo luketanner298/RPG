@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Digging_Machine_Back_Section_0: 6189778586833628486
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

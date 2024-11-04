@@ -248,7 +248,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Alien_death_0: 4118493872987603834
+      Alien_death_1: -7831153278249499941
+      Alien_death_2: 1201327797458621667
+      Alien_death_3: 857975722327509212
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

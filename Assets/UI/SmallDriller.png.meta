@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallDriller_0: -3567342027831981289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

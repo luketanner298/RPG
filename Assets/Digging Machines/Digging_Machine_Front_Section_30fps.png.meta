@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Digging_Machine_Front_Section_30fps_0: 7844916180685474604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

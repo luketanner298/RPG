@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallAstronaut_Idle_0: -7525121465180674254
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

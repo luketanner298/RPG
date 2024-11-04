@@ -248,7 +248,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Astronaut_Death_0: 7519599597433859749
+      Astronaut_Death_1: -6106966469572728719
+      Astronaut_Death_2: -3224712823038519169
+      Astronaut_Death_3: 1627100571599090694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

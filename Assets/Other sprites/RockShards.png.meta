@@ -348,7 +348,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RockShards_0: 981523089481170252
+      RockShards_1: -4395624749633838338
+      RockShards_2: 2093589271068645099
+      RockShards_3: -7454837930541500789
+      RockShards_4: 1104696275195394438
+      RockShards_5: -8487581435843206845
+      RockShards_6: 3790581040317805069
+      RockShards_7: -3107215366018726628
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
