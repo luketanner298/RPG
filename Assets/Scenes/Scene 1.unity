@@ -674,7 +674,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'play
+  m_text: 'play again
 
 '
   m_isRightToLeft: 0

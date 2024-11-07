@@ -74,7 +74,7 @@ public class PlayerLife : MonoBehaviour
         rb.bodyType = RigidbodyType2D.Static;
         anim.SetTrigger("death");
         // Optionally: Restart level after a delay
-        Invoke("GoToEndScene", 2f); // Go to end scene after a delay
+        Invoke("GoToEnd", 2f); // Go to end scene after a delay
        // Invoke("RestartLevel", 2f); // Example: Restart after 2 seconds
     }
 
@@ -86,6 +86,6 @@ public class PlayerLife : MonoBehaviour
 
      private void GoToEndScene()
     {
-        SceneManager.LoadScene("EndScene"); // Replace "EndScene" with the actual name of your end scene
+        SceneManager.LoadScene("End"); // Replace "EndScene" with the actual name of your end scene
     }
 }
